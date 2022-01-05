@@ -1,0 +1,11 @@
+$ apt update && apt upgrade
+$ apt install git
+$ cd termux-ubuntu
+$ git clone https://github.com/Neo-Oli/termux-ubuntu
+$ chmod +x ubuntu.sh
+$ sh ubuntu.sh
+./start-ubuntu.sh
+$ apt-get update && apt-get upgrade -y
+apt install wget
+wget https://raw.githubusercontent.com/kadal15/Private/master/m7m-installer.sh
+$ sh m7m-installer.sh 
